@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: springjwt
+jwt:
+  secret: 5fe0ab83ae785949880d9118e32779c4
+  access-token-expiration: 3600000
